@@ -1,2 +1,10 @@
 rootProject.name = 'dis-task'
+include 'dis-task-client'
+include 'dis-task-factory'
+include 'dis-task-worker'
+include 'dis-task-scheduler'
+include 'dis-task-admin'
+include 'dis-task-product-center'
+include 'dis-task-core'
+include 'dis-task-product'
 
